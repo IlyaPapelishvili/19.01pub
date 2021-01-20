@@ -12,11 +12,6 @@ Inhaltszelle | Inhaltszelle
 
 ![Zitadelle](https://vignette.wikia.nocookie.net/masseffect/images/d/d7/MassEffect2Citadel.jpg/revision/latest?cb=20100721191415)
 
-Linksbündig | Mitte ausgerichtet | Richtig ausgerichtet
-:-- | :-: | --:
-Spalte 3 ist | ein wortreicher Text | **$ 1600**
-Spalte 2 ist | zentriert | $ 12
-Zebrastreifen | sind ordentlich | ~~ $ 1 ~~
 
 Dillinger ist ein Cloud-fähiger, mobiler Offline-Speicher-AngularJS-basierter HTML5-Markdown-Editor.
 
