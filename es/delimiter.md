@@ -4,6 +4,14 @@
 
 Lee registros CSV con un [`delimiter`] tabulación.
 
+```efdsdfvxdvsd
+sdvsdvvsdd
+dv	efs
+ssfesd
+ffdsdfdfs
+dfsd
+```
+
 ```rust,edition2018
 use csv::Error;
 use serde::Deserialize;
