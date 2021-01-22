@@ -3,6 +3,13 @@
 [![csv-badge]][csv] [![cat-encoding-badge]][cat-encoding]
 
 Reads CSV records with a tab [`delimiter`].
+```efdsdfvxdvsd
+sdvsdvvsdd
+dv	efs
+ssfesd
+ffdsdfdfs
+dfsd
+```
 
 ```rust,edition2018
 use csv::Error;
