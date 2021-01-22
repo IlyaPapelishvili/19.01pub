@@ -4,8 +4,6 @@
 
 Reads CSV records with a tab [`delimiter`].
 
-ydsyufsdnhsgkufcbsduykcscsbfdsvfbguyxfvubdf usdfcnusd csdcusd sudysugdcsyd
-
 ```rust,edition2018
 use csv::Error;
 use serde::Deserialize;
